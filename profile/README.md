@@ -57,8 +57,8 @@ Documentation and modules will be made public as they mature.
 
 ## 📬 **Contact**
 
-**Email:** *info@chainupi.tech*  
-**Website:** *chainupi.tech*
+**Email:** [info@chainupi.tech](mailto:info@chainupi.tech)  
+**Website:** [chainupi.tech](https://chainupi.tech)
 
 ---
 
