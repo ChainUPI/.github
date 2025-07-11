@@ -26,7 +26,7 @@ Our mission is to make decentralized payments fast, secure, and easy for both us
 | **Frontend** | React Native, React.js |
 | **Backend** | Node.js, Express.js, TypeScript |
 | **Database** | MongoDB, Redis (for caching) |
-| **Blockchain** | Solidity Smart Contracts, Web3.js, Ethers.js, Solana.ja |
+| **Blockchain** | Solidity Smart Contracts, Web3.js, Ethers.js, Solana.js |
 | **Oracles** | Chainlink (Price Feeds, CCIP, Functions, Automation) |
 | **Infrastructure** | AWS, Docker, Kubernetes |
 | **Monitoring** | Grafana, Prometheus, Sentry |
